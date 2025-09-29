@@ -1,2 +1,3 @@
-# Mi-proyecto-backend
-Taller para medir conocimientos en git y terminal, practicando lo aprendido
+# Mi proyecto Backend
+# Practica de Backend con Node.js
+# Danny valencia - 3124846330
